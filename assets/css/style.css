@@ -14,3 +14,26 @@
 .forecast-date {
     font-size: 18px;
 }
+
+.border-padding {
+    padding: 20px;
+    margin: 10px;
+}
+
+.current-weather-element{
+    font: 20px;
+}
+
+
+#future-weather {
+    margin: 10px;
+}
+
+.future-weather {
+    padding: 0 11px;
+}
+
+#past-searches {
+    display: flex;
+    flex-direction: column;
+}
